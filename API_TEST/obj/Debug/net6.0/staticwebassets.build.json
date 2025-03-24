@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "Rlbv6p5WvTtyJOFvxa+UqT6DdcNo7RndaFN+UDOtVTM=",
+  "Source": "API_TEST",
+  "BasePath": "_content/API_TEST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API_TEST\\wwwroot",
+      "Source": "API_TEST",
+      "ContentRoot": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\images\\Screenshot 2024-08-18 143148_638616248349468978.png",
+      "SourceId": "API_TEST",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "RelativePath": "images/Screenshot 2024-08-18 143148_638616248349468978.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2024-08-18 143148_638616248349468978.png"
+    },
+    {
+      "Identity": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\images\\Screenshot 2024-08-18 153225_638616454698872387.png",
+      "SourceId": "API_TEST",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "RelativePath": "images/Screenshot 2024-08-18 153225_638616454698872387.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2024-08-18 153225_638616454698872387.png"
+    },
+    {
+      "Identity": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\images\\Screenshot 2024-08-18 165732_638616410510439744.png",
+      "SourceId": "API_TEST",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\API TEST\\BaiTestAPISchedule\\BaiTestAPI\\API_TEST\\wwwroot\\",
+      "BasePath": "_content/API_TEST",
+      "RelativePath": "images/Screenshot 2024-08-18 165732_638616410510439744.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Screenshot 2024-08-18 165732_638616410510439744.png"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\services\\scheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\services\\scheduleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\services\\mediaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\services\\mediaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\models\\timeslotrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\timeslotrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\models\\timeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\timeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\mapping\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\mapping\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\data\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\models\\schedulewithtimeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\schedulewithtimeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\models\\schedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\schedulerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\models\\schedulerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\models\\schedulerespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\data\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\data\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\data\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|c:\\users\\triss\\downloads\\webapiquanlylichchieumedia\\api_test\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E70AA2-F6FF-41BA-99AB-0BC00B438DF5}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\Schedule.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\Schedule.cs",
+              "RelativeToolTip": "API_TEST\\Data\\Schedule.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:18:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mappers.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Mapping\\Mappers.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Mapping\\Mappers.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Mapping\\Mappers.cs",
+              "RelativeToolTip": "API_TEST\\Mapping\\Mappers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:08:56.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleWithTimeSlotRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleWithTimeSlotRequest.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\ScheduleWithTimeSlotRequest.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleWithTimeSlotRequest.cs",
+              "RelativeToolTip": "API_TEST\\Models\\ScheduleWithTimeSlotRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:54:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "API_TEST\\Data\\MyDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:18:20.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "API_TEST\\Controllers\\MediaController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:19:27.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Services\\MediaServices.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Services\\MediaServices.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Services\\MediaServices.cs",
+              "RelativeToolTip": "API_TEST\\Services\\MediaServices.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:45:54.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleServices.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Services\\ScheduleServices.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Services\\ScheduleServices.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Services\\ScheduleServices.cs",
+              "RelativeToolTip": "API_TEST\\Services\\ScheduleServices.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAD4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:24:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeSlotRespone.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\TimeSlotRespone.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\TimeSlotRespone.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\TimeSlotRespone.cs",
+              "RelativeToolTip": "API_TEST\\Models\\TimeSlotRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:31:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Program.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Program.cs",
+              "RelativeToolTip": "API_TEST\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:50:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeSlotRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\TimeSlotRequest.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\TimeSlotRequest.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\TimeSlotRequest.cs",
+              "RelativeToolTip": "API_TEST\\Models\\TimeSlotRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:47:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "API_TEST\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:20:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "API_TEST\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:27:03.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScheduleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleRequest.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\ScheduleRequest.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleRequest.cs",
+              "RelativeToolTip": "API_TEST\\Models\\ScheduleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:45:30.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleRespone.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleRespone.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Models\\ScheduleRespone.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Models\\ScheduleRespone.cs",
+              "RelativeToolTip": "API_TEST\\Models\\ScheduleRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:57:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\TimeSlot.cs",
+              "RelativeToolTip": "API_TEST\\Data\\TimeSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:02:22.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\appsettings.json",
+              "RelativeDocumentMoniker": "API_TEST\\appsettings.json",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\appsettings.json",
+              "RelativeToolTip": "API_TEST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T04:55:28.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Media.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\Media.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Data\\Media.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Data\\Media.cs",
+              "RelativeToolTip": "API_TEST\\Data\\Media.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:02:47.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\Triss\\Downloads\\WebAPIQuanLyLichChieuMedia\\API_TEST\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "API_TEST\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:26:22.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
